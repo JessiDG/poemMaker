@@ -28,7 +28,6 @@ public class Sonnet {
                     "Ivor Gurney, Jorge Luis Borges (translated by Tony Barnstone)"};
 
     public void sonnet(){
-
         String[] sonnet = getSonnet();
         sonnetToTxt(sonnet);
         sonnetToConsole(sonnet);
