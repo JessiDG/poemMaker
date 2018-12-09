@@ -2,7 +2,7 @@ import java.io.PrintWriter;
 import java.util.Calendar;
 import java.util.Scanner;
 
-public class sestina {
+public class Sestina {
 
     int NUM_STANZAS = 6;
 

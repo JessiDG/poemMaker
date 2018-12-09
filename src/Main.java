@@ -4,8 +4,10 @@ public class Main {
 
     public static void main(String args[]){
 
-        poemMaker poem = new poemMaker();
+        PoemMaker poem = new PoemMaker();
 
-        poem.sestina();
+//        poem.sestina();
+//
+        poem.sonnet();
     }
 }
