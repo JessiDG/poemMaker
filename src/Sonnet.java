@@ -42,6 +42,7 @@ public class Sonnet {
         Scanner sc = new Scanner(System.in);
 
         for (int i = 0; i < sonnetLength; i ++) {
+            System.out.println();
             if(i==0) {
                 System.out.println("Write a sentence with 10 syllables, " +
                         "alternating hard and soft");
@@ -61,9 +62,10 @@ public class Sonnet {
                 System.out.println("Write another sentence with 10 syllables, " +
                         "alternating hard and soft");
             }
-            System.out.println("e.g.: " + sampleIambicPentameterSonnet[i] + "\n");
+            System.out.println("e.g.: " + sampleIambicPentameterSonnet[i]);
             sonnet[i] = sc.nextLine();
         }
+        System.out.println(sampleIambicPentameterSonnet[sampleIambicPentameterSonnet.length-1] + "\n");
         return sonnet;
     }
 

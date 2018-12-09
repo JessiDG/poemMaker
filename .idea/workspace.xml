@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5eba7cc9-6f94-4540-817e-9cbf3338e664" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sonnet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/poemMaker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PoemMaker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sestina.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sestina.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/poemMaker/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/poemMaker/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/poemMaker/poemMaker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/poemMaker/poemMaker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/poemMaker/sestina.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/poemMaker/sestina.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sonnet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sonnet.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,8 +54,8 @@
       <file leaf-file-name="Sonnet.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Sonnet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="57" column="69" selection-start-line="57" selection-start-column="69" selection-end-line="57" selection-end-column="69" />
+            <state relative-caret-position="181">
+              <caret line="44" column="31" selection-start-line="44" selection-start-column="31" selection-end-line="44" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -100,9 +99,9 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="749" />
-    <option name="y" value="31" />
-    <option name="width" value="1078" />
-    <option name="height" value="1117" />
+    <option name="y" value="23" />
+    <option name="width" value="1171" />
+    <option name="height" value="1177" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -254,7 +253,14 @@
       <option name="project" value="LOCAL" />
       <updated>1544232802780</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added a sonnet builder">
+      <created>1544319600373</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1544319600373</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -295,7 +301,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
     <MESSAGE value="Updating error handling, removing test files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updating error handling, removing test files" />
+    <MESSAGE value="Added a sonnet builder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added a sonnet builder" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -378,8 +385,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Sonnet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="57" column="69" selection-start-line="57" selection-start-column="69" selection-end-line="57" selection-end-column="69" />
+        <state relative-caret-position="181">
+          <caret line="44" column="31" selection-start-line="44" selection-start-column="31" selection-end-line="44" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
